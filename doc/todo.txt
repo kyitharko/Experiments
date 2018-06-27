@@ -1,0 +1,2 @@
+1. check git
+2. write program
