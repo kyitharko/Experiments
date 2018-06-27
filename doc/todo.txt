@@ -1,3 +1,0 @@
-1. check git
-2. write program
-3. ignore this file
